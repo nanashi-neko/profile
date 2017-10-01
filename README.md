@@ -4,11 +4,11 @@
 
 |key|value|
 |---|-----|
-|Name|永田　尚人 (Nagata Naoto)|
+|Name|尚人 (Naoto)|
 |Blog| none |
 |Twitter|[@none](https://twitter.com/none)|
 |Qiita|[nekomura3](http://qiita.com/nekomura3)|
-|SlideShare|[naoto nagata](http://www.slideshare.net/naotonagata1)|
+|SlideShare|[naoto nagata](http://www.slideshare.net/fefef)|
 |Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
 
 ## スキル
